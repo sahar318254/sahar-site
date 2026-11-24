@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sahar-mortgages.com/sitemap.xml
